@@ -1,0 +1,2 @@
+This is a test text where we will look for a they keyword test. 
+It must return the number of test words.
